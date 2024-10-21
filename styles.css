@@ -5,7 +5,7 @@ body
 
 header
 {
-    background-color: #121212;
+    background-color: #000000;
     color: white;
     text-align: center;
     padding: 25px;
@@ -39,6 +39,7 @@ div.aboutme
 .mypicture
 {
     border: solid #ffffff;
+    background-color: #e78b13;
     padding: 15px;
     border-radius: 20px;
     margin-right: 100px;
